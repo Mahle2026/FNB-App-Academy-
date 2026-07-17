@@ -2,7 +2,6 @@
 
 #Collect learners details
 name = input("Enter learner name: ")
-
 mark1 = float(input("Enter mark for Subject 1: "))
 mark2 = float(input("Enter mark for Subject 2: "))
 mark3 = float(input("Enter mark for Subject 3: "))
